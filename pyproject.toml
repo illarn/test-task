@@ -1,0 +1,9 @@
+[project]
+name = "download-speed"
+version = "0.1.0"
+description = "A small sequential download speed measurement CLI"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.uv]
+package = false
